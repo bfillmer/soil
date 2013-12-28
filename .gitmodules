@@ -18,7 +18,7 @@
 	url = https://github.com/scribu/wp-query-multiple-taxonomies.git
 [submodule "themes/roots"]
 	path = themes/roots
-	url = https://github.com/retlehs/roots.git
+	url = https://github.com/bfillmer/roots.git
 [submodule "plugins/front-end-editor"]
 	path = plugins/front-end-editor
 	url = https://github.com/wp-mirror/mirror-front-end-editor.git
